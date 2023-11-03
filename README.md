@@ -1,7 +1,9 @@
 ## Context Chat
 
-**Context Chat** é uma aplicação web desenvolvida com NextJs, ReactJs e TypeScript que fornece um ambiente de chat em tempo real com recursos avançados para contextos empresariais.
+**Context Chat** é uma aplicação web e mobile utilizando PWA desenvolvida com NextJs, ReactJs e TypeScript que fornece um ambiente de chat em tempo real com recursos avançados para contextos empresariais.
 Ela inclui um assistente virtual alimentado por inteligência artificial para aprimorar a interação com os clientes.
+
+![flowzinho](https://github.com/raimonesbarros/context-chat/assets/104095836/0fddaa8d-41ec-445a-af1c-386d3438209b)
 
 ## Funcionalidades
 
@@ -14,6 +16,8 @@ Ela inclui um assistente virtual alimentado por inteligência artificial para ap
 **Contexto Empresarial**: Recursos avançados para manter as conversas dentro do contexto empresarial fornecido.
 
 **Integração de WebSockets**: Uso de WebSockets para garantir comunicação em tempo real eficiente e escalável.
+
+**PWA**: Uso de Progressive Web Application para garantir uma melhor experiência de em dispositivos mobile.
 
 ## Tecnologias Utilizadas
 
