@@ -17,7 +17,7 @@ Ela inclui um assistente virtual alimentado por inteligência artificial para ap
 
 **Integração de WebSockets**: Uso de WebSockets para garantir comunicação em tempo real eficiente e escalável.
 
-**PWA**: Uso de Progressive Web Application para garantir uma melhor experiência de em dispositivos mobile.
+**PWA**: Uso de Progressive Web Application para garantir uma melhor experiência em dispositivos mobile.
 
 ## Tecnologias Utilizadas
 
